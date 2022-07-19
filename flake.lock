@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "v1_5_25",
-        "lastModified": 1658031798,
-        "narHash": "sha256-DDoj+5wLyWO2i8z8Y7sci6EVmki+F7COIWVu7NUAxfo=",
+        "lastModified": 1658201311,
+        "narHash": "sha256-vNrNDEH+CnURGtMVBpTewF2mjecTl/HikCN8ao316Go=",
         "owner": "nim-nix-pkgs",
         "repo": "cligen",
-        "rev": "b91968ec6df808ca63f0ab5706e5d3d29b538270",
+        "rev": "0206b7f4f56224b1eed9ca45340176bde05bcac7",
         "type": "github"
       },
       "original": {
@@ -93,11 +93,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658032951,
-        "narHash": "sha256-CXId1b/zBgIJx4gIwOclqRmzrLs2lAUBYDbq01Z1h0c=",
+        "lastModified": 1658202974,
+        "narHash": "sha256-WiQPmaAJ+dN5njZUY7xEccyReXAOha4aBet2y0lXH48=",
         "owner": "nim-nix-pkgs",
         "repo": "fushin",
-        "rev": "58a6d2a22b1d45952040c93d3bd335ef8bc7b9f2",
+        "rev": "82c6e026c3daaedf520d9a3f2c5e955eca675adf",
         "type": "github"
       },
       "original": {
@@ -122,11 +122,11 @@
       },
       "locked": {
         "dir": "v0_0_0",
-        "lastModified": 1658032951,
-        "narHash": "sha256-CXId1b/zBgIJx4gIwOclqRmzrLs2lAUBYDbq01Z1h0c=",
+        "lastModified": 1658202974,
+        "narHash": "sha256-WiQPmaAJ+dN5njZUY7xEccyReXAOha4aBet2y0lXH48=",
         "owner": "nim-nix-pkgs",
         "repo": "fushin",
-        "rev": "58a6d2a22b1d45952040c93d3bd335ef8bc7b9f2",
+        "rev": "82c6e026c3daaedf520d9a3f2c5e955eca675adf",
         "type": "github"
       },
       "original": {
@@ -151,11 +151,11 @@
       },
       "locked": {
         "dir": "v2_0_0",
-        "lastModified": 1658032065,
-        "narHash": "sha256-TB4E2XpTuKsFSKNziUWh5c5a0MFP44qjcjuZh4cttKQ=",
+        "lastModified": 1658201678,
+        "narHash": "sha256-nBLKoj/Ivc1FBs9LcR01X4UMjCSvpkn6JUbnO3X6gB0=",
         "owner": "nim-nix-pkgs",
         "repo": "nimquery",
-        "rev": "e8a0a9f86c03a61e3009528258ad2ff5861db6fb",
+        "rev": "02d2b1e28623a7c43749031f8a6300442ce4e1ff",
         "type": "github"
       },
       "original": {
@@ -252,11 +252,11 @@
     "src-fushin-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1657584879,
-        "narHash": "sha256-C5LZ+1boBpmBiFDug4nJZrhJggqgGi4K9fX8Z6dEvMQ=",
+        "lastModified": 1658165476,
+        "narHash": "sha256-nwxq03Ulqt1pmHSguTe6LdW6/mMP19XkSfFYnEGbEZA=",
         "owner": "eggplants",
         "repo": "fushin",
-        "rev": "be8473d82f92c4a23cd9825b8dfc14658d12f60f",
+        "rev": "d43b435546eb7f88f54a4b1812f4db7b2b18783c",
         "type": "github"
       },
       "original": {
